@@ -1,0 +1,45 @@
+body {
+    margin: 0;
+    font-family: "Anaheim", sans-serif;
+    color: #2F3237;
+}
+
+h1 {
+    font-size: 40px;
+}
+
+div.titleImage img {
+    height: 18vh;
+    vertical-align: -webkit-baseline-middle;
+}
+
+div.header {
+    display: inline-block;
+    margin: 0 auto;
+}
+
+hr {
+    color: #2F3237;
+}
+
+ul {
+    list-style: none;
+    display: inline-block;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+}
+
+li {
+    text-align: center;
+    display: inline-block;
+    padding: 10px 20px 10px 20px;
+}
+
+div.footing {
+    height: 60px;
+    text-align: center;
+    line-height: 60px;
+    font-size: 20px;
+    background-color: #718E3E;
+}
