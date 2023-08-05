@@ -37,6 +37,10 @@ li {
 }
 
 div.footing {
+    position: fixed;
+    bottom: 0;
+    /* ^^ to be removed once Past Topics page is populated */
+
     height: 60px;
     text-align: center;
     line-height: 60px;
