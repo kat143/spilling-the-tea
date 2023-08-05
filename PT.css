@@ -39,6 +39,7 @@ li {
 div.footing {
     position: fixed;
     bottom: 0;
+    width: 100vw;
     /* ^^ to be removed once Past Topics page is populated */
 
     height: 60px;
